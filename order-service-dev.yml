@@ -1,0 +1,8 @@
+test:
+  name:
+    testOrderDev
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ilija:wowlg147@cluster0.ao3iv.mongodb.net/?retryWrites=true&w=majority
+      database: order-service
