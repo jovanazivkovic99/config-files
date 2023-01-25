@@ -3,4 +3,4 @@ test:
     testProduct
 profiles:
   active:
-    dev
+    prod
