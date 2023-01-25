@@ -1,6 +1,6 @@
 test:
   name:
-    testOrderDev
+    testOrderDev2
 spring:
   data:
     mongodb:
