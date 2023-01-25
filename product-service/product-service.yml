@@ -1,3 +1,6 @@
 test:
   name:
     testProduct
+profiles:
+  active:
+    dev
